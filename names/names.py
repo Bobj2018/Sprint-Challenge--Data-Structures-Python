@@ -23,7 +23,12 @@ for name_1 in names_1:
     if name_1 in names_2:
         duplicates.append(name_1)
 
+# index = 0
 
+# while index != len(names_1) - 1:
+#     if names_1[index] in names_2:
+#         duplicates.append(names_1[index])
+#     index += 1
 
 
 end_time = time.time()
